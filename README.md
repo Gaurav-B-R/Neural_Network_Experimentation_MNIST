@@ -43,7 +43,7 @@ This project provides insights into how different configurations can impact the 
 
 ## References
 - [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
-- Various Deep Learning Optimization Techniques
+- Various Deep  Optimization Techniques
 
 ## Author
 **Gaurav Bharatavalli** - [LinkedIn](https://www.linkedin.com/in/gaurav-b-r/) - [GitHub](https://github.com/Gaurav-B-R/)
