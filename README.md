@@ -6,7 +6,7 @@ This project is a deep learning experiment focused on understanding how differen
 ## Dataset
 The MNIST dataset is a collection of 70,000 handwritten digit images categorized into 10 classes (0-9). Each image is a 28x28 pixel grayscale image. The dataset is widely used for training and testing in the field of machine learning.
 
-## 
+## Key Experimentation Areas
 1. **Optimization Techniques**: Comparison between Stochastic Gradient Descent (SGD) and Mini-batch Gradient Descent.
 2. **Activation Functions**: Analysis of ReLU and tanh functions in terms of their impact on test accuracy over epochs.
 3. **Hidden Layer Neurons**: Evaluation of test accuracy with varying numbers of neurons in the hidden layers.
