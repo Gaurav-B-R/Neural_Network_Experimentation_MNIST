@@ -18,7 +18,7 @@ The MNIST dataset is a collection of 70,000 handwritten digit images categorized
 - **`ReLU vs tanh Test Accuracy Over Epochs.png`**: Graph showing the test accuracy for different activation functions over training epochs.
 - **`Test Accuracy vs Hidden Layer Neurons.png`**: Plot analyzing the impact of hidden layer neuron count on test accuracy.
 
-## 
+## How to Run the Project
 1. Clone this repository:
     ```bash
     git clone https://github.com/your-username/Neural_Network_Experimentation_MNIST.git
