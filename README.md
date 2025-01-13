@@ -33,7 +33,7 @@ The MNIST dataset is a collection of 70,000 handwritten digit images categorized
     ```
 4. Run the cells in the notebook to view the results and plots.
 
-## 
+## Results and Observations
 - **SGD vs. Mini-batch SGD**: Mini-batch SGD showed faster convergence and better test accuracy compared to standard SGD.
 - **ReLU vs. tanh Activation**: ReLU achieved higher accuracy and convergence speed in comparison to tanh.
 - **Hidden Layer Neurons**: Increasing the number of neurons up to a certain limit improved accuracy, but too many neurons led to overfitting.
