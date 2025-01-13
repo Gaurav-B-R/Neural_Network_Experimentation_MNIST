@@ -48,4 +48,4 @@ This project provides insights into how different configurations can impact the 
 ## Author
 **Gaurav Bharatavalli** - [LinkedIn](https://www.linkedin.com/in/gaurav-b-r/) - [GitHub](https://github.com/Gaurav-B-R/)
 
-Feel free to reach out if you have any questions or suggestions!
+Feel free to reach out if you have any questions or !
